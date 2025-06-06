@@ -1,5 +1,5 @@
 package Practice;
-
+//using this keyword to differentiate global and local variables
 public class Learn {
     int a ;//global/instance/class variable
     int b = 10;

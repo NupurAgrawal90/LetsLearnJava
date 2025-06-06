@@ -1,5 +1,5 @@
 package Practice;
-
+//constructor overriding different parameterised
 public class ConstHome {
 
     ConstHome()
